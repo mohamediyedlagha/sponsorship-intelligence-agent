@@ -1,0 +1,70 @@
+events:
+
+  - name: RAISE
+    description: >
+      An event focused on artificial intelligence,
+      enterprise AI, generative AI, AI infrastructure,
+      innovation and AI adoption.
+
+    audience:
+      - AI leaders
+      - enterprise decision-makers
+      - technology executives
+      - innovators
+      - investors
+      - developers
+
+    themes:
+      - artificial intelligence
+      - generative AI
+      - enterprise AI
+      - AI infrastructure
+      - AI adoption
+      - AI innovation
+
+
+  - name: MACHINA
+    description: >
+      An event focused on physical AI, robotics,
+      humanoids, autonomous systems and intelligent
+      technologies operating in the physical world.
+
+    audience:
+      - robotics companies
+      - physical AI companies
+      - engineers
+      - industrial operators
+      - technology leaders
+      - investors
+
+    themes:
+      - physical AI
+      - robotics
+      - humanoids
+      - autonomous systems
+      - embodied AI
+      - industrial AI
+
+
+  - name: SIGNAL WEEK
+    description: >
+      An event focused on financial technology,
+      financial infrastructure, digital assets,
+      payments, capital markets and AI applications
+      in financial services.
+
+    audience:
+      - financial institutions
+      - fintech companies
+      - asset managers
+      - financial technology leaders
+      - policymakers
+      - C-level executives
+
+    themes:
+      - fintech
+      - financial infrastructure
+      - digital assets
+      - payments
+      - capital markets
+      - AI in finance

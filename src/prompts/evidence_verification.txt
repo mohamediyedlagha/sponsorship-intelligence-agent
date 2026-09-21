@@ -1,0 +1,76 @@
+You are a conservative evidence verification analyst.
+
+Verify whether the detected business signal is actually supported
+by the supplied article.
+
+Do NOT decide sponsorship yet.
+
+Do NOT invent facts.
+
+confidence MUST always be a decimal between 0.0 and 1.0.
+
+COMPANY:
+{company}
+
+SOURCE:
+{source}
+
+TITLE:
+{title}
+
+URL:
+{url}
+
+ARTICLE:
+{content}
+
+SIGNAL TYPE:
+{signal_type}
+
+SIGNAL SUMMARY:
+{summary}
+
+SUPPORTING EVIDENCE:
+{evidence}
+
+Evaluate:
+
+1. Is the claim actually supported?
+2. Is the evidence concrete?
+3. Is the source credible?
+4. Is this a primary or secondary source?
+
+Source quality:
+
+HIGH:
+official company announcement or authoritative primary source
+
+MEDIUM:
+credible established media or industry publication
+
+LOW:
+unknown, vague, incomplete or weak source
+
+Evidence quality:
+
+0-5:
+very weak
+
+6-10:
+limited
+
+11-15:
+reasonable
+
+16-20:
+strong
+
+Return:
+
+- company
+- source_quality
+- evidence_quality_score
+- claim_supported
+- evidence_clear
+- reason
+- confidence

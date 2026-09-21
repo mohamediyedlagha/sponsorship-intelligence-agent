@@ -1,0 +1,13 @@
+ollama
+pydantic
+python-dotenv
+pyyaml
+requests
+beautifulsoup4
+ddgs
+sentence-transformers
+scikit-learn
+numpy
+rich
+tenacity
+pytest

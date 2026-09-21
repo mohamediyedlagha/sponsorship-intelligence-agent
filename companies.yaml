@@ -1,0 +1,28 @@
+companies:
+  - name: Mistral AI
+    website: https://mistral.ai
+    enabled: true
+
+    keywords:
+      - product launch
+      - new product
+      - partnership
+      - funding
+      - expansion
+      - enterprise
+      - new market
+      - acquisition
+
+  - name: ElevenLabs
+    website: https://elevenlabs.io
+    enabled: true
+
+    keywords:
+      - product launch
+      - new product
+      - partnership
+      - funding
+      - expansion
+      - enterprise
+      - new market
+      - acquisition
